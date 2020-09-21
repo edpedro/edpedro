@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <p align="left" style="margin-top: 10px">
- <strong>Formação</strong> <strong></strong><br>
+ <strong>Formação</strong> <span>IFPE</span><br>
   Técnico em Informática para Internet.🏆
 </p>
 
