@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-pedro-061886130/)](https://www.linkedin.com/in/eduardo-pedro-061886130/)
 [![Gmail Badge](https://img.shields.io/badge/-edp2013.ep@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edp2013.ep.com)](mailto:edp2013.ep@gmail.com)
 
+![Estatísticas do github](https://github-readme-stats.vercel.app/api?username=edpedro&&count_private=true&theme=tokyonight)
+![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=edpedro&layout=compact&theme=tokyonight)
 
 
 
